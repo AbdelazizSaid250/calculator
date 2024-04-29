@@ -1,2 +1,2 @@
-## Multi module maven project
-# Don't forget to run `mvn clean install`
+# Multi module maven project
+## Don't forget to run `mvn clean install`
